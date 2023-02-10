@@ -5,6 +5,14 @@ use cases.
 
 Do what you want cause a pirate is free, you are a pirate!
 
+## Usage
+
+```go
+import "go.teddydd.me/plundered/"
+```
+
+[Docs](https://godocs.io/go.teddydd.me/plundered)
+
 ## Source code
 
 This repository is hosted on https://git.sr.ht/~teddy/plundered
