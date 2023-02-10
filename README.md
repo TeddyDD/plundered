@@ -1,7 +1,9 @@
 # Plundered 🏴‍☠
 
 Various Go packages extracted from bigger projects and modified for my
-use case.
+use cases.
+
+Do what you want cause a pirate is free, you are a pirate! 
 
 ## List of packages
 
@@ -14,3 +16,6 @@ use case.
     - https://github.com/gofiber/template/tree/master/html
     - use `io.FS`
     - removed `Parse`
+- signals
+    - https://github.com/kubernetes-sigs/controller-runtime/tree/master/pkg/manager/signals
+    - removed test since they use Ginko/Gomega
