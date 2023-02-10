@@ -3,7 +3,13 @@
 Various Go packages extracted from bigger projects and modified for my
 use cases.
 
-Do what you want cause a pirate is free, you are a pirate! 
+Do what you want cause a pirate is free, you are a pirate!
+
+## Source code
+
+This repository is hosted on https://git.sr.ht/~teddy/plundered
+Patches can be send to https://lists.sr.ht/~teddy/public-inbox
+Read-only GitHub mirror is provided: https://github.com/TeddyDD/plundered
 
 ## List of packages
 
