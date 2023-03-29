@@ -1,9 +1,10 @@
 # Plundered 🏴‍☠
 
-Various Go packages extracted from bigger projects and modified for my
-use cases.
+Arr, me hearty!
 
-Do what you want cause a pirate is free, you are a pirate!
+This be me booty of Go packages, pried free from grander projects and plundered for me own use.
+
+Sail where the wind takes ya! Pirates live free, ya scallywag!
 
 ## Usage
 
@@ -15,11 +16,11 @@ import "go.teddydd.me/plundered/"
 
 ## Source code
 
-This repository is hosted on https://git.sr.ht/~teddy/plundered
-Patches can be send to https://lists.sr.ht/~teddy/public-inbox
-Read-only GitHub mirror is provided: https://github.com/TeddyDD/plundered
+Ye best be finding this here repository at https://git.sr.ht/~teddy/plundered
+If ye got patches, send 'em on over to https://lists.sr.ht/~teddy/public-inbox
+And if ye prefer a read-only mirror, head to https://github.com/TeddyDD/plundered
 
-## List of packages
+## 'Tis a tally of our plundered packages:
 
 - recorder
     - https://github.com/carlmjohnson/requests
@@ -32,4 +33,4 @@ Read-only GitHub mirror is provided: https://github.com/TeddyDD/plundered
     - removed `Parse`
 - signals
     - https://github.com/kubernetes-sigs/controller-runtime/tree/master/pkg/manager/signals
-    - removed test since they use Ginko/Gomega
+    - aye, removed test since they use Ginko/Gomega
