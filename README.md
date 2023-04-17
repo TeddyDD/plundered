@@ -34,3 +34,8 @@ And if ye prefer a read-only mirror, head to https://github.com/TeddyDD/plundere
 - signals
     - https://github.com/kubernetes-sigs/controller-runtime/tree/master/pkg/manager/signals
     - aye, removed test since they use Ginko/Gomega
+- cmdline
+    - https://pkg.go.dev/github.com/u-root/u-root@v0.11.0/pkg/cmdline#CmdLine.Flag
+    - for parsing simple cmdline arguments in kernel style `foo=bar feature1 load-cannons=yes`
+    - only CmdLine struct
+    - new AsBool method with simple heuristics
